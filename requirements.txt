@@ -1,2 +1,2 @@
-h2ogpte==1.4.11
-streamlit
+h2ogpte==1.4.10
+streamlit==1.29
